@@ -1,6 +1,6 @@
-# KE4086 Keyes STEM电子积木 MES麦克风模块 
+KE4086 Keyes STEM电子积木 MES麦克风模块 
 
-[TOC]
+
 
 ## 实物图
 
